@@ -1,13 +1,25 @@
 # Splunk SOC Lab Project
 
-## Overview
-Built a Security Operations Center (SOC) lab using Splunk Enterprise, Windows 10 and Ubuntu.
 
-## Components
-- Splunk Enterprise
-- Splunk Universal Forwarder
-- Windows Event Logs
-- VMware Workstation
+## 📊 Splunk Interface Overview
+
+Understand the key Splunk Search & Reporting components used during security investigations.
+
+![Splunk Interface Components](./splunk-interface-components.jpg)
+
+## 🔎 Failed Login Detection with SPL
+
+Example query breakdown for identifying and grouping failed-login events.
+
+![Failed Login SPL Query](./failed-login-query.jpg)
+
+## 🖥️ SOC Analyst Interface
+
+Illustrative overview of search, event fields, and visualization panels.
+
+![Splunk SOC Interface](./splunk-soc-interface.jpg)
+
+
 
 ## Use Cases
 - Failed Login Detection (4625)
